@@ -1,0 +1,119 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+.main{
+    width: 100%;
+    height:150%;
+    /*border:8px solid black;*/
+    background-color:white;
+    position:absolute;
+}
+.navi{
+   
+    width:100%;
+    height: 100px;
+    position:sticky;
+    top:20px;
+    background-color:#252838;
+    display: flex;
+    z-index: 1;
+    border-radius:1%;
+    background:url("web1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:top ;
+}
+.con{
+    height: 30px;
+    width: 100px;
+    /*border:2px solid black;*/
+    text-align: center;
+    position:relative;
+    top:20px;
+    padding-top: 20px;
+    text-transform:capitalize ;
+    word-spacing:30px;
+    font-size:20px;
+    margin-left:60px;
+    color:white;
+     transition:2s;
+     text-decoration: none;
+}
+.con:hover{
+    text-decoration:underline;
+    color:white;
+   
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+.main2{
+    height:100%;
+    width:100%;
+    background-color: rgb(150, 147, 147);
+    position: relative;
+    top:26px;
+
+   
+}
+.greet{
+    /*text-align: center;*/
+    text-transform: capitalize;
+    font-weight:bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    height:300px;
+    width:875px;
+    /*border: 5px solid black;*/
+    position:absolute;
+    margin-top:25px;
+    padding-top:15px;
+    /*margin-left:30px;*/
+    padding-left:25px;
+   color:rgb(44, 40, 40);
+   /*color: white;
+    background-image:url("web.jpg"); here i want to stick some images
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;*/
+   
+}
+.greet p{
+    font-size:20px ;
+  
+   /* text-align: center;*/
+}
+.img{
+    height:310px;
+    width:470px;
+    /*border: 1px solid black;*/
+    position: absolute;
+    float: left;
+    left: 925px;
+    top:25px;
+    border-radius:23px;
+    overflow:hidden;
+
+}
+.img:hover{
+     transform:rotateX(0deg) rotateY(-190deg) rotateZ(0deg); 
+     background:url("weeb1.png");
+     background-position:center;
+     background-repeat:no-repeat;
+     background-size:cover;
+}
+.pic{
+    height:700px;
+    width:1380px;
+    /*border: 2px solid black;*/
+    position: absolute;
+    top:360px;
+    left:10px;
+}
+.pic .img2{
+    float:right;
+    margin-bottom:5px;
+}

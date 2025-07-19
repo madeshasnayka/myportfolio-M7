@@ -1,0 +1,34 @@
+🏠 Home Page Content
+Welcome to DevStack – The Ultimate Full-Stack Developer Hub!
+
+🚀 Connect. Learn. Build.
+Join a thriving community of full-stack developers. Whether you're a beginner or an expert, collaborate, share knowledge, and grow together.
+
+🔥 Why Join Us?
+✔ Expert Discussions – Get insights on frontend, backend, databases & DevOps.
+✔ Code Challenges – Sharpen your skills with real-world projects.
+✔ Job Board – Find remote & full-time opportunities.
+✔ Mentorship – Learn from experienced developers.
+
+💡 Ready to Level Up?
+👉 Join Now and be part of something bigger!
+
+📖 About Page Content
+About DevStack – Where Developers Thrive
+
+💻 Who We Are
+DevStack is a global community of passionate full-stack developers. We believe in collaboration over competition and help each other succeed in the ever-evolving tech world.
+
+🌟 Our Mission
+To create an inclusive space where developers can:
+✔ Share knowledge – Tutorials, best practices & industry trends.
+✔ Solve problems – Get help with bugs, architecture & career advice.
+✔ Network – Connect with peers, mentors & companies.
+
+👨‍💻 Who Should Join?
+✔ Newbies – Learn full-stack development from scratch.
+✔ Intermediate Devs – Master advanced concepts.
+✔ Experts – Mentor others & stay updated.
+
+🔗 Join us today and grow together!
+
